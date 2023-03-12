@@ -1,0 +1,6 @@
+Second name | First name | Phone nomber
+Ivanov Ivan +7999666333
+Zafir Il'mar +7888555222
+Larisa Ivanovna +7777444111
+Smirnov Evgeniy +792856233
+Lubovich Arsan 89512345
